@@ -1,3 +1,5 @@
+This is my version of the notorious Movie Rental kata, timeboxed to 2h
+
 # Movie Rental
 
 This source code follows Martin Fowler's book "Refactoring, Improving the Design of Existing Code".
